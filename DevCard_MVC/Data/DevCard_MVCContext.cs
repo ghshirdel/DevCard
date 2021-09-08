@@ -15,5 +15,7 @@ namespace DevCard_MVC.Data
         }
 
         public DbSet<DevCard_MVC.Models.Project> Project { get; set; }
+
+        public DbSet<DevCard_MVC.Models.Article> Article { get; set; }
     }
 }

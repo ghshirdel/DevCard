@@ -431,3 +431,5 @@ D:\asp smaple Atria\DevCard\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.pdb
 D:\asp smaple Atria\DevCard\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.genruntimeconfig.cache
 D:\asp smaple Atria\DevCard\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.csproj.AssemblyReference.cache
 D:\asp smaple Atria\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Components\Articles\_Article.cshtml.g.cs
+D:\asp smaple Atria\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
+D:\asp smaple Atria\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs

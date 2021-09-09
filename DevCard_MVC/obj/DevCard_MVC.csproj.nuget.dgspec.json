@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Atria ASP.net Core\\sample\\DevCard-master\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj": {}
+    "C:\\Users\\Hi-Tech\\Source\\Repos\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj": {}
   },
   "projects": {
-    "D:\\Atria ASP.net Core\\sample\\DevCard-master\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj": {
+    "C:\\Users\\Hi-Tech\\Source\\Repos\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Atria ASP.net Core\\sample\\DevCard-master\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Hi-Tech\\Source\\Repos\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
         "projectName": "DevCard_MVC",
-        "projectPath": "D:\\Atria ASP.net Core\\sample\\DevCard-master\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
-        "packagesPath": "C:\\Users\\hshirdel\\.nuget\\packages\\",
-        "outputPath": "D:\\Atria ASP.net Core\\sample\\DevCard-master\\DevCard\\DevCard_MVC\\obj\\",
+        "projectPath": "C:\\Users\\Hi-Tech\\Source\\Repos\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
+        "packagesPath": "C:\\Users\\Hi-Tech\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hi-Tech\\Source\\Repos\\DevCard\\DevCard_MVC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hshirdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Hi-Tech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
